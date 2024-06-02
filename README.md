@@ -1,4 +1,4 @@
-
+[![Header](https://github.com/Gobind-Barick/Gobind-Barick/blob/main/Banner.png)]()
 <h1 align="center">Hi 👋, I'm Gobind Barick</h1>
 <h3 align="center">A passionate fullstack web-developer from India</h3>
 
