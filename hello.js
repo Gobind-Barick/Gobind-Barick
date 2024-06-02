@@ -1,1 +1,1 @@
-console.log("Hello")
+const Pair= "extraordinaire"
